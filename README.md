@@ -10,6 +10,8 @@ The Global Health Observatory (GHO) data repository under World Health Organizat
   <img src = "https://github.com/bkullukcu/linear-regression-who-dataset/blob/master/Distplot.png" width = "400" height = "200" align = "center"><img src = "https://github.com/bkullukcu/linear-regression-who-dataset/blob/master/Distplot_Predictions.png" width = "400" height = "200" align = "center"><img src = "https://github.com/bkullukcu/linear-regression-who-dataset/blob/master/Heatmap.png" width = "600" height = "400" align = "center">
 </p>
 
+### Life Expectancy Correlation was Found In Terms of Different Metrics:
+
 <p align="left">
 Holding all other features fixed, a 1 unit increase in Adult Mortality is associated with an decrease of ~0.2 years.
   </p>
